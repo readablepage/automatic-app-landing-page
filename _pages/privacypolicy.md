@@ -12,5 +12,5 @@ Your privacy is critically important to us. Your data is your own. We make no cl
 
 <br>
 
-1.0 Your Data
+### 1.0 Your Data
 We don't store your data, period.
