@@ -34,7 +34,7 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Readbale
+  - title                                 : Readable
     description                           : Turn unreadable text scresnhots into Readable words
     fontawesome_icon_name                 : magic
 
